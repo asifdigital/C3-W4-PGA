@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Week 4 Peer Graded Assignment
 The aim of this project is to collect the data and create a single, tidy data set containing a subset of the initial set of features provided by the source
 
-## Scripts
+## Script
 There is a single script run_analysis.R which carries out the following steps.
 
 The script assumes that the working directory contains the folder 'UCI HAR Dataset' which contains all the data required for this project, available
