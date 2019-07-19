@@ -1,12 +1,12 @@
-# Data
+# Data Codebook
 ## Files
 * Mean_and_Standard_Dev.csv
-___ rows of __ observations
+10299 rows of 68 variables
 
 The Human Activity Recognition Using Smartphones Data Set is obtained from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. The data provided in the 'Mean_and_Standard_Dev.csv' is constructed using the original dataset by merging the training and test set and then extrancting only the measurements for the means and standard deviations for each of the measurements collected in the experiment. 
 
 * Summarize.csv
-___ rows of __ observations
+180 rows of 68 observations
 
 The data provided in the 'Summarized.csv' is constructed by grouping the data in 'Mean_and_Standard_dev.csv' by activity and by subject and then finding the average value for each variable
 
